@@ -15,8 +15,7 @@ module.exports = {
             banner_img: `https://cdn.harrly.com/project/GitHub/Notion-Blog-React/img/Notion-Blog-React.Banner.png`,
             language: [
                 { name: 'British English', code: 'en-GB' },
-                { name: 'Simplified Chinese', code: 'zh-CN' },
-            ],
+                        ],
         },
         content: {
             header: {
